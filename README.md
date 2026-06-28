@@ -27,7 +27,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 ### Installation
 
-1. **Clone the repository** (or download the source):
+1. **Clone the repository** (or download the source):.
    ```bash
    git clone <YOUR_REPO_URL>
    cd ResourcelyNative
